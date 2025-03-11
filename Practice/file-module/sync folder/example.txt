@@ -1,0 +1,2 @@
+Hello, the content is written inside the file successfully!
+Another line is written successfully

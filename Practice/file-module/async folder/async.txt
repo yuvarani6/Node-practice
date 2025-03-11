@@ -1,0 +1,2 @@
+Hello this is async file
+ Next line in async file
